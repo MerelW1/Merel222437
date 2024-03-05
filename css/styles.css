@@ -18,7 +18,7 @@ body {
 }
 
 .resume-main {
-	background-color: #fffefc;
+	background-color: pink;
 }
 
 .resume-aside {
@@ -59,3 +59,5 @@ body {
   font-style: normal;
 	color: darkslateblue
 }
+
+.coloredbalkjes { color: deeppink!important}

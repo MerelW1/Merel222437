@@ -49,3 +49,13 @@ body {
 	height: 1em;
 	flex-basis: 1.4em;
 }
+
+.funky-title{ 
+	color: black}
+
+.great-vibes-regular {
+  font-family: "Great Vibes", cursive;
+  font-weight: 400;
+  font-style: normal;
+	color: darkslateblue
+}

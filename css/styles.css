@@ -60,4 +60,6 @@ body {
 	color: darkslateblue
 }
 
-.coloredbalkjes { color: deeppink!important}
+.merel-level {
+	border-color: deeppink!important
+}
